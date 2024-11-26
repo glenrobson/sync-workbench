@@ -1,0 +1,5 @@
+requests
+iiif-prezi3
+pyvips
+boto3
+jinja2
